@@ -20,6 +20,8 @@ This project provides a simple WordPress brute-force script, leveraging the **WP
 
 This tool automates the process of brute-forcing WordPress login credentials. It fetches usernames from the WordPress REST API, combines them with common passwords, and attempts login using **WPForce**. 💥
 
+![Demo](https://i.imgur.com/zvzJUnG.gif)
+
 ## Setup 🛠️
 
 ### Prerequisites 📋
