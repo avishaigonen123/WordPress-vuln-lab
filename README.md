@@ -122,6 +122,27 @@ docker-compose down -v
 
 ---
 
+## 🛠️ Tools Folder
+
+The [Tools](./tools) folder is packed with utilities and scripts designed to assist in testing WordPress vulnerabilities. As the project grows, more powerful and advanced tools will be added to enhance your security testing experience.
+
+### Current Tools:
+
+- **WPForce Brute-Force Wrapper**  
+  A tool designed to brute-force login attempts on WordPress sites using a list of usernames and passwords.
+  - **Location:** [WordPress Brute-force script](./tools/WordPress-Brute-force-Script/README.md)
+  - **Description:** This tool helps to perform brute-force attacks against WordPress login pages, testing the strength of user credentials.
+
+- **Plugin Vulnerability Tester** (Coming Soon) :)  
+  A tool to check the vulnerabilities of installed plugins in your WordPress environment (currently in development).
+  
+---
+
+**Stay tuned for more!** 🎉  
+As we continue to improve and extend this lab, more tools for WordPress security testing will be available to you. Keep an eye on the `tools` folder! 🔧💡
+
+---
+
 ## 🙏 Credits
 
 Based on [vavkamil/dvwp](https://github.com/vavkamil/dvwp)  
