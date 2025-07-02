@@ -51,8 +51,12 @@ docker-compose up -d --build
 You can download plugins from:  
 📎 https://plugins.svn.wordpress.org/
 
+
 For example:  
-https://plugins.svn.wordpress.org/wp-file-manager/tags/6.0/
+📎 https://plugins.svn.wordpress.org/wp-file-manager/tags/6.0/
+
+In addition, you can install from here:
+📎 https://downloads.wordpress.org/plugin/wp-file-manager.6.0.zip
 
 Put your plugin `.zip` files in the `./plugins` folder.
 
